@@ -1,7 +1,7 @@
 package observer;
 
 /**
- * Class that implements Member interface
+ * Class that implements Member interface. It observes the new_usb variable of GroupAdmin.
  */
 public class ConcreteMember implements Member{
     UndoableStringBuilder new_usb;
