@@ -1,5 +1,5 @@
 # Summary of the repository
-In this task we were required to use observers to watch over an UndoableStringBuilder object. So that in every change to the string will notify the observers.
+In this task we were required to use observers to watch over an UndoableStringBuilder object. So that every change to the string will notify the observers.
 
 
 # Important Files
